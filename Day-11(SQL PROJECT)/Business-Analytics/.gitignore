@@ -1,0 +1,8 @@
+# SQL Server database backup
+*.bak
+*.mdf
+*.ndf
+*.ldf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
