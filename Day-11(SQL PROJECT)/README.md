@@ -58,7 +58,7 @@ https://learn.microsoft.com/en-us/ssms/install/install
 
 SSMS 22 is currently installed through the Visual Studio Installer.
 
-### Step 3: Open SSMS
+### Step 3: Open SSMSvvc
 
 After installation:
 
@@ -76,7 +76,7 @@ After installation:
 
 Download the `AdventureWorks2022.bak` backup file from Microsoft's official SQL Server Samples repository.
 
-Save the file somewhere accessible, for example:
+Save the file somewhere accessible...
 
 ```text
 C:\SQLData\AdventureWorks2022.bak
