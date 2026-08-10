@@ -32,7 +32,7 @@ https://github.com/microsoft/sql-server-samples/releases
 
 Before installing SSMS, make sure Microsoft SQL Server is installed on your system.
 
-You can install SQL Server Developer Edition for development and learning purposes.
+You can install SQL Server Developer Edition  for development and learning purposes.
 
 After installation, remember your SQL Server instance name because it will be required when connecting through SSMS.
 
