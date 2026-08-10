@@ -41,8 +41,7 @@ Provides key business KPIs such as revenue, orders, customers, average order val
 ### 10. Advanced SQL Concepts
 Demonstrates practical SQL techniques including CTEs, Views, Stored Procedures, Functions, and Temporary Tables.
 
-### 11. Conclusion
-Summarizes the major findings and business insights derived from the analysis.
+
 
 ## Tools Used
 
