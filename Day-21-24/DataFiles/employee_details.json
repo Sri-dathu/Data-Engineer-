@@ -1,0 +1,1602 @@
+[
+  {
+    "EmployeeID":"EMP0001",
+    "Name":"Donald Walker",
+    "Department":"Sales",
+    "Designation":"Sales Executive",
+    "Salary":127196,
+    "JoiningDate":"2023-01-06"
+  },
+  {
+    "EmployeeID":"EMP0002",
+    "Name":"Stephanie Miller",
+    "Department":"Finance",
+    "Designation":"Financial Analyst",
+    "Salary":59256,
+    "JoiningDate":"2023-12-27"
+  },
+  {
+    "EmployeeID":"EMP0003",
+    "Name":"Daniel Wagner",
+    "Department":"Marketing",
+    "Designation":"Content Strategist",
+    "Salary":43434,
+    "JoiningDate":"2020-11-03"
+  },
+  {
+    "EmployeeID":"EMP0004",
+    "Name":"Matthew Gardner",
+    "Department":"Sales",
+    "Designation":"Account Manager",
+    "Salary":85302,
+    "JoiningDate":"2016-11-19"
+  },
+  {
+    "EmployeeID":"EMP0005",
+    "Name":"Rhonda Smith",
+    "Department":"Engineering",
+    "Designation":"Software Engineer",
+    "Salary":42280,
+    "JoiningDate":"2018-10-29"
+  },
+  {
+    "EmployeeID":"EMP0006",
+    "Name":"Gina Moore",
+    "Department":"Human Resources",
+    "Designation":"HR Executive",
+    "Salary":96237,
+    "JoiningDate":"2024-09-05"
+  },
+  {
+    "EmployeeID":"EMP0007",
+    "Name":"Brandon Davis",
+    "Department":"Engineering",
+    "Designation":"Senior Software Engineer",
+    "Salary":123850,
+    "JoiningDate":"2026-03-12"
+  },
+  {
+    "EmployeeID":"EMP0008",
+    "Name":"Renee Blair",
+    "Department":"Customer Support",
+    "Designation":"Support Executive",
+    "Salary":88878,
+    "JoiningDate":"2025-02-04"
+  },
+  {
+    "EmployeeID":"EMP0009",
+    "Name":"Jamie Arnold",
+    "Department":"Finance",
+    "Designation":"Financial Analyst",
+    "Salary":129458,
+    "JoiningDate":"2021-12-25"
+  },
+  {
+    "EmployeeID":"EMP0010",
+    "Name":"Shannon Ray",
+    "Department":"Marketing",
+    "Designation":"Content Strategist",
+    "Salary":85392,
+    "JoiningDate":"2024-11-30"
+  },
+  {
+    "EmployeeID":"EMP0011",
+    "Name":"Darren Roberts",
+    "Department":"Operations",
+    "Designation":"Operations Manager",
+    "Salary":50379,
+    "JoiningDate":"2023-09-01"
+  },
+  {
+    "EmployeeID":"EMP0012",
+    "Name":"Brian Ramirez",
+    "Department":"Human Resources",
+    "Designation":"HR Manager",
+    "Salary":43396,
+    "JoiningDate":"2017-06-02"
+  },
+  {
+    "EmployeeID":"EMP0013",
+    "Name":"Jacob Clark",
+    "Department":"Sales",
+    "Designation":"Sales Manager",
+    "Salary":42676,
+    "JoiningDate":"2022-12-24"
+  },
+  {
+    "EmployeeID":"EMP0014",
+    "Name":"Maria Lynch",
+    "Department":"Operations",
+    "Designation":"Operations Manager",
+    "Salary":109131,
+    "JoiningDate":"2019-04-17"
+  },
+  {
+    "EmployeeID":"EMP0015",
+    "Name":"Carla Gray",
+    "Department":"Finance",
+    "Designation":"Financial Analyst",
+    "Salary":125647,
+    "JoiningDate":"2018-05-02"
+  },
+  {
+    "EmployeeID":"EMP0016",
+    "Name":"Kristin Cohen",
+    "Department":"IT",
+    "Designation":"Network Engineer",
+    "Salary":46361,
+    "JoiningDate":"2026-07-08"
+  },
+  {
+    "EmployeeID":"EMP0017",
+    "Name":"Crystal Johnson",
+    "Department":"Customer Support",
+    "Designation":"Support Executive",
+    "Salary":102357,
+    "JoiningDate":"2025-01-18"
+  },
+  {
+    "EmployeeID":"EMP0018",
+    "Name":"Daniel Hahn",
+    "Department":"Finance",
+    "Designation":"Finance Manager",
+    "Salary":111070,
+    "JoiningDate":"2019-10-11"
+  },
+  {
+    "EmployeeID":"EMP0019",
+    "Name":"Matthew Foster",
+    "Department":"Operations",
+    "Designation":"Operations Executive",
+    "Salary":122349,
+    "JoiningDate":"2025-05-21"
+  },
+  {
+    "EmployeeID":"EMP0020",
+    "Name":"Derek Wright",
+    "Department":"Sales",
+    "Designation":"Sales Executive",
+    "Salary":116673,
+    "JoiningDate":"2025-10-07"
+  },
+  {
+    "EmployeeID":"EMP0021",
+    "Name":"Kevin Hurst",
+    "Department":"Human Resources",
+    "Designation":"HR Manager",
+    "Salary":40458,
+    "JoiningDate":"2022-03-27"
+  },
+  {
+    "EmployeeID":"EMP0022",
+    "Name":"Zachary Hicks",
+    "Department":"Human Resources",
+    "Designation":"HR Executive",
+    "Salary":79823,
+    "JoiningDate":"2020-08-13"
+  },
+  {
+    "EmployeeID":"EMP0023",
+    "Name":"Brian Burton",
+    "Department":"Finance",
+    "Designation":"Accountant",
+    "Salary":113320,
+    "JoiningDate":"2017-07-13"
+  },
+  {
+    "EmployeeID":"EMP0024",
+    "Name":"Arthur James",
+    "Department":"Operations",
+    "Designation":"Operations Executive",
+    "Salary":78520,
+    "JoiningDate":"2024-07-17"
+  },
+  {
+    "EmployeeID":"EMP0025",
+    "Name":"Tricia Valencia",
+    "Department":"Operations",
+    "Designation":"Operations Executive",
+    "Salary":117841,
+    "JoiningDate":"2026-08-01"
+  },
+  {
+    "EmployeeID":"EMP0026",
+    "Name":"Melanie Herrera",
+    "Department":"Finance",
+    "Designation":"Finance Manager",
+    "Salary":119593,
+    "JoiningDate":"2016-09-25"
+  },
+  {
+    "EmployeeID":"EMP0027",
+    "Name":"Ashley Graham",
+    "Department":"Sales",
+    "Designation":"Account Manager",
+    "Salary":113227,
+    "JoiningDate":"2019-04-16"
+  },
+  {
+    "EmployeeID":"EMP0028",
+    "Name":"Sherri Baker",
+    "Department":"Marketing",
+    "Designation":"Content Strategist",
+    "Salary":125568,
+    "JoiningDate":"2021-02-27"
+  },
+  {
+    "EmployeeID":"EMP0029",
+    "Name":"Thomas Harrell",
+    "Department":"Human Resources",
+    "Designation":"HR Executive",
+    "Salary":90589,
+    "JoiningDate":"2021-08-17"
+  },
+  {
+    "EmployeeID":"EMP0030",
+    "Name":"Lisa Hernandez",
+    "Department":"Customer Support",
+    "Designation":"Support Team Lead",
+    "Salary":113886,
+    "JoiningDate":"2019-08-10"
+  },
+  {
+    "EmployeeID":"EMP0031",
+    "Name":"Paula Moreno",
+    "Department":"Human Resources",
+    "Designation":"Recruiter",
+    "Salary":72504,
+    "JoiningDate":"2024-03-31"
+  },
+  {
+    "EmployeeID":"EMP0032",
+    "Name":"Alec Hickman",
+    "Department":"Engineering",
+    "Designation":"Senior Software Engineer",
+    "Salary":137715,
+    "JoiningDate":"2016-08-17"
+  },
+  {
+    "EmployeeID":"EMP0033",
+    "Name":"Elizabeth Brown",
+    "Department":"Engineering",
+    "Designation":"Engineering Manager",
+    "Salary":82581,
+    "JoiningDate":"2025-05-29"
+  },
+  {
+    "EmployeeID":"EMP0034",
+    "Name":"Angelica Tucker",
+    "Department":"Finance",
+    "Designation":"Financial Analyst",
+    "Salary":57653,
+    "JoiningDate":"2025-05-27"
+  },
+  {
+    "EmployeeID":"EMP0035",
+    "Name":"Pamela Anderson",
+    "Department":"Operations",
+    "Designation":"Operations Executive",
+    "Salary":115909,
+    "JoiningDate":"2017-04-24"
+  },
+  {
+    "EmployeeID":"EMP0036",
+    "Name":"Deborah Brennan",
+    "Department":"IT",
+    "Designation":"IT Support Engineer",
+    "Salary":145957,
+    "JoiningDate":"2021-05-17"
+  },
+  {
+    "EmployeeID":"EMP0037",
+    "Name":"Joshua Blair",
+    "Department":"IT",
+    "Designation":"System Administrator",
+    "Salary":64718,
+    "JoiningDate":"2020-11-07"
+  },
+  {
+    "EmployeeID":"EMP0038",
+    "Name":"Zachary Santos",
+    "Department":"Marketing",
+    "Designation":"Marketing Executive",
+    "Salary":127647,
+    "JoiningDate":"2018-08-19"
+  },
+  {
+    "EmployeeID":"EMP0039",
+    "Name":"Barbara Walker",
+    "Department":"Finance",
+    "Designation":"Finance Manager",
+    "Salary":106622,
+    "JoiningDate":"2021-01-01"
+  },
+  {
+    "EmployeeID":"EMP0040",
+    "Name":"Crystal Robinson",
+    "Department":"Customer Support",
+    "Designation":"Support Team Lead",
+    "Salary":77447,
+    "JoiningDate":"2020-01-02"
+  },
+  {
+    "EmployeeID":"EMP0041",
+    "Name":"Crystal Whitehead",
+    "Department":"Human Resources",
+    "Designation":"HR Executive",
+    "Salary":96784,
+    "JoiningDate":"2017-05-01"
+  },
+  {
+    "EmployeeID":"EMP0042",
+    "Name":"David Caldwell",
+    "Department":"IT",
+    "Designation":"System Administrator",
+    "Salary":129061,
+    "JoiningDate":"2025-03-21"
+  },
+  {
+    "EmployeeID":"EMP0043",
+    "Name":"Timothy Duncan",
+    "Department":"Engineering",
+    "Designation":"Software Engineer",
+    "Salary":50033,
+    "JoiningDate":"2018-10-06"
+  },
+  {
+    "EmployeeID":"EMP0044",
+    "Name":"Rhonda Lee",
+    "Department":"Marketing",
+    "Designation":"Content Strategist",
+    "Salary":85333,
+    "JoiningDate":"2021-05-07"
+  },
+  {
+    "EmployeeID":"EMP0045",
+    "Name":"Jeff Owens",
+    "Department":"Sales",
+    "Designation":"Sales Manager",
+    "Salary":80019,
+    "JoiningDate":"2017-08-04"
+  },
+  {
+    "EmployeeID":"EMP0046",
+    "Name":"Victoria Garcia",
+    "Department":"IT",
+    "Designation":"Network Engineer",
+    "Salary":62953,
+    "JoiningDate":"2023-11-30"
+  },
+  {
+    "EmployeeID":"EMP0047",
+    "Name":"Scott Wright",
+    "Department":"Engineering",
+    "Designation":"Software Engineer",
+    "Salary":119353,
+    "JoiningDate":"2020-08-24"
+  },
+  {
+    "EmployeeID":"EMP0048",
+    "Name":"Javier Ramirez",
+    "Department":"Finance",
+    "Designation":"Finance Manager",
+    "Salary":74587,
+    "JoiningDate":"2018-07-10"
+  },
+  {
+    "EmployeeID":"EMP0049",
+    "Name":"Jessica Callahan",
+    "Department":"Sales",
+    "Designation":"Sales Manager",
+    "Salary":86985,
+    "JoiningDate":"2019-02-13"
+  },
+  {
+    "EmployeeID":"EMP0050",
+    "Name":"Zachary Huff",
+    "Department":"Marketing",
+    "Designation":"Marketing Manager",
+    "Salary":30425,
+    "JoiningDate":"2022-02-15"
+  },
+  {
+    "EmployeeID":"EMP0051",
+    "Name":"Sarah Martin",
+    "Department":"Finance",
+    "Designation":"Finance Manager",
+    "Salary":129871,
+    "JoiningDate":"2026-04-24"
+  },
+  {
+    "EmployeeID":"EMP0052",
+    "Name":"James Brown",
+    "Department":"Marketing",
+    "Designation":"Content Strategist",
+    "Salary":149619,
+    "JoiningDate":"2021-06-24"
+  },
+  {
+    "EmployeeID":"EMP0053",
+    "Name":"Mrs. Rachel Gibson",
+    "Department":"Sales",
+    "Designation":"Account Manager",
+    "Salary":69117,
+    "JoiningDate":"2020-05-30"
+  },
+  {
+    "EmployeeID":"EMP0054",
+    "Name":"Whitney Peters",
+    "Department":"Human Resources",
+    "Designation":"HR Executive",
+    "Salary":79009,
+    "JoiningDate":"2020-11-07"
+  },
+  {
+    "EmployeeID":"EMP0055",
+    "Name":"Edward Novak",
+    "Department":"Marketing",
+    "Designation":"Content Strategist",
+    "Salary":132056,
+    "JoiningDate":"2023-10-22"
+  },
+  {
+    "EmployeeID":"EMP0056",
+    "Name":"Nicole Brown",
+    "Department":"Engineering",
+    "Designation":"Engineering Manager",
+    "Salary":94042,
+    "JoiningDate":"2022-05-31"
+  },
+  {
+    "EmployeeID":"EMP0057",
+    "Name":"Sarah Moore",
+    "Department":"Engineering",
+    "Designation":"Software Engineer",
+    "Salary":77576,
+    "JoiningDate":"2022-06-19"
+  },
+  {
+    "EmployeeID":"EMP0058",
+    "Name":"Cody Larson",
+    "Department":"Finance",
+    "Designation":"Financial Analyst",
+    "Salary":37592,
+    "JoiningDate":"2026-03-25"
+  },
+  {
+    "EmployeeID":"EMP0059",
+    "Name":"Bryan Zamora",
+    "Department":"Human Resources",
+    "Designation":"Recruiter",
+    "Salary":40322,
+    "JoiningDate":"2023-05-17"
+  },
+  {
+    "EmployeeID":"EMP0060",
+    "Name":"Lisa Barnes",
+    "Department":"Sales",
+    "Designation":"Account Manager",
+    "Salary":93699,
+    "JoiningDate":"2019-01-31"
+  },
+  {
+    "EmployeeID":"EMP0061",
+    "Name":"Taylor Harris",
+    "Department":"Sales",
+    "Designation":"Account Manager",
+    "Salary":130379,
+    "JoiningDate":"2022-06-17"
+  },
+  {
+    "EmployeeID":"EMP0062",
+    "Name":"James Powers",
+    "Department":"Marketing",
+    "Designation":"Marketing Executive",
+    "Salary":116474,
+    "JoiningDate":"2023-10-14"
+  },
+  {
+    "EmployeeID":"EMP0063",
+    "Name":"Paul Jones",
+    "Department":"IT",
+    "Designation":"Network Engineer",
+    "Salary":51643,
+    "JoiningDate":"2019-08-15"
+  },
+  {
+    "EmployeeID":"EMP0064",
+    "Name":"Dr. Angel Lewis MD",
+    "Department":"Finance",
+    "Designation":"Finance Manager",
+    "Salary":144351,
+    "JoiningDate":"2021-03-16"
+  },
+  {
+    "EmployeeID":"EMP0065",
+    "Name":"Sherry Wood",
+    "Department":"Customer Support",
+    "Designation":"Support Executive",
+    "Salary":100686,
+    "JoiningDate":"2025-12-15"
+  },
+  {
+    "EmployeeID":"EMP0066",
+    "Name":"Michele Carr",
+    "Department":"Human Resources",
+    "Designation":"Recruiter",
+    "Salary":70857,
+    "JoiningDate":"2018-03-14"
+  },
+  {
+    "EmployeeID":"EMP0067",
+    "Name":"Aimee Montoya",
+    "Department":"Customer Support",
+    "Designation":"Support Team Lead",
+    "Salary":87422,
+    "JoiningDate":"2026-06-30"
+  },
+  {
+    "EmployeeID":"EMP0068",
+    "Name":"Teresa Taylor",
+    "Department":"IT",
+    "Designation":"System Administrator",
+    "Salary":62493,
+    "JoiningDate":"2019-08-13"
+  },
+  {
+    "EmployeeID":"EMP0069",
+    "Name":"Juan Nelson",
+    "Department":"Human Resources",
+    "Designation":"HR Executive",
+    "Salary":74313,
+    "JoiningDate":"2017-10-10"
+  },
+  {
+    "EmployeeID":"EMP0070",
+    "Name":"Christina Walters",
+    "Department":"Engineering",
+    "Designation":"Senior Software Engineer",
+    "Salary":107128,
+    "JoiningDate":"2022-09-02"
+  },
+  {
+    "EmployeeID":"EMP0071",
+    "Name":"Taylor Mathis Jr.",
+    "Department":"Human Resources",
+    "Designation":"HR Executive",
+    "Salary":39305,
+    "JoiningDate":"2019-04-06"
+  },
+  {
+    "EmployeeID":"EMP0072",
+    "Name":"Aaron Wise",
+    "Department":"Engineering",
+    "Designation":"Senior Software Engineer",
+    "Salary":38834,
+    "JoiningDate":"2020-11-09"
+  },
+  {
+    "EmployeeID":"EMP0073",
+    "Name":"Patrick Arnold",
+    "Department":"Engineering",
+    "Designation":"Engineering Manager",
+    "Salary":39287,
+    "JoiningDate":"2022-12-29"
+  },
+  {
+    "EmployeeID":"EMP0074",
+    "Name":"Benjamin Ware",
+    "Department":"Human Resources",
+    "Designation":"HR Manager",
+    "Salary":117684,
+    "JoiningDate":"2020-11-24"
+  },
+  {
+    "EmployeeID":"EMP0075",
+    "Name":"Sandra Aguilar",
+    "Department":"IT",
+    "Designation":"System Administrator",
+    "Salary":100678,
+    "JoiningDate":"2025-08-30"
+  },
+  {
+    "EmployeeID":"EMP0076",
+    "Name":"Eric Nolan",
+    "Department":"Marketing",
+    "Designation":"Content Strategist",
+    "Salary":145655,
+    "JoiningDate":"2018-02-06"
+  },
+  {
+    "EmployeeID":"EMP0077",
+    "Name":"Stephanie Clark",
+    "Department":"IT",
+    "Designation":"System Administrator",
+    "Salary":132841,
+    "JoiningDate":"2024-08-01"
+  },
+  {
+    "EmployeeID":"EMP0078",
+    "Name":"Richard Henson",
+    "Department":"IT",
+    "Designation":"IT Support Engineer",
+    "Salary":54957,
+    "JoiningDate":"2019-02-12"
+  },
+  {
+    "EmployeeID":"EMP0079",
+    "Name":"Brittany Spears",
+    "Department":"Sales",
+    "Designation":"Sales Executive",
+    "Salary":116374,
+    "JoiningDate":"2020-09-07"
+  },
+  {
+    "EmployeeID":"EMP0080",
+    "Name":"Rita Keith",
+    "Department":"Customer Support",
+    "Designation":"Support Team Lead",
+    "Salary":85519,
+    "JoiningDate":"2025-04-08"
+  },
+  {
+    "EmployeeID":"EMP0081",
+    "Name":"Evelyn Galvan",
+    "Department":"Customer Support",
+    "Designation":"Support Team Lead",
+    "Salary":143224,
+    "JoiningDate":"2016-11-13"
+  },
+  {
+    "EmployeeID":"EMP0082",
+    "Name":"Rita Adams",
+    "Department":"Engineering",
+    "Designation":"Software Engineer",
+    "Salary":37944,
+    "JoiningDate":"2024-08-23"
+  },
+  {
+    "EmployeeID":"EMP0083",
+    "Name":"Shane Garrison",
+    "Department":"Customer Support",
+    "Designation":"Support Team Lead",
+    "Salary":134935,
+    "JoiningDate":"2024-06-30"
+  },
+  {
+    "EmployeeID":"EMP0084",
+    "Name":"Julia Torres",
+    "Department":"Sales",
+    "Designation":"Sales Executive",
+    "Salary":55112,
+    "JoiningDate":"2018-11-05"
+  },
+  {
+    "EmployeeID":"EMP0085",
+    "Name":"Alexander Lee",
+    "Department":"Human Resources",
+    "Designation":"Recruiter",
+    "Salary":88800,
+    "JoiningDate":"2024-07-29"
+  },
+  {
+    "EmployeeID":"EMP0086",
+    "Name":"Tracy Ramirez",
+    "Department":"Marketing",
+    "Designation":"Marketing Manager",
+    "Salary":54050,
+    "JoiningDate":"2019-11-27"
+  },
+  {
+    "EmployeeID":"EMP0087",
+    "Name":"William Herrera",
+    "Department":"Finance",
+    "Designation":"Accountant",
+    "Salary":62742,
+    "JoiningDate":"2023-01-14"
+  },
+  {
+    "EmployeeID":"EMP0088",
+    "Name":"Wesley White",
+    "Department":"Sales",
+    "Designation":"Sales Manager",
+    "Salary":135909,
+    "JoiningDate":"2026-01-06"
+  },
+  {
+    "EmployeeID":"EMP0089",
+    "Name":"Brian Hamilton",
+    "Department":"Sales",
+    "Designation":"Sales Executive",
+    "Salary":115477,
+    "JoiningDate":"2026-04-01"
+  },
+  {
+    "EmployeeID":"EMP0090",
+    "Name":"Larry Dixon",
+    "Department":"Engineering",
+    "Designation":"Software Engineer",
+    "Salary":128771,
+    "JoiningDate":"2023-11-28"
+  },
+  {
+    "EmployeeID":"EMP0091",
+    "Name":"Dawn Fletcher",
+    "Department":"Human Resources",
+    "Designation":"HR Executive",
+    "Salary":83269,
+    "JoiningDate":"2020-06-22"
+  },
+  {
+    "EmployeeID":"EMP0092",
+    "Name":"Kimberly Ball",
+    "Department":"IT",
+    "Designation":"IT Support Engineer",
+    "Salary":58016,
+    "JoiningDate":"2016-08-21"
+  },
+  {
+    "EmployeeID":"EMP0093",
+    "Name":"Helen Jones",
+    "Department":"Customer Support",
+    "Designation":"Support Executive",
+    "Salary":51579,
+    "JoiningDate":"2024-01-16"
+  },
+  {
+    "EmployeeID":"EMP0094",
+    "Name":"Erik Charles",
+    "Department":"Customer Support",
+    "Designation":"Support Executive",
+    "Salary":81173,
+    "JoiningDate":"2023-04-07"
+  },
+  {
+    "EmployeeID":"EMP0095",
+    "Name":"Eric Ortiz",
+    "Department":"Finance",
+    "Designation":"Accountant",
+    "Salary":67388,
+    "JoiningDate":"2023-10-27"
+  },
+  {
+    "EmployeeID":"EMP0096",
+    "Name":"Cameron Fisher",
+    "Department":"Customer Support",
+    "Designation":"Support Team Lead",
+    "Salary":50289,
+    "JoiningDate":"2020-08-23"
+  },
+  {
+    "EmployeeID":"EMP0097",
+    "Name":"Stephanie Gilbert",
+    "Department":"Human Resources",
+    "Designation":"HR Manager",
+    "Salary":58534,
+    "JoiningDate":"2026-01-10"
+  },
+  {
+    "EmployeeID":"EMP0098",
+    "Name":"April Mitchell",
+    "Department":"Engineering",
+    "Designation":"Software Engineer",
+    "Salary":128038,
+    "JoiningDate":"2019-08-19"
+  },
+  {
+    "EmployeeID":"EMP0099",
+    "Name":"Mary Marshall",
+    "Department":"Operations",
+    "Designation":"Operations Executive",
+    "Salary":36572,
+    "JoiningDate":"2020-12-02"
+  },
+  {
+    "EmployeeID":"EMP0100",
+    "Name":"John Santana",
+    "Department":"IT",
+    "Designation":"Network Engineer",
+    "Salary":141767,
+    "JoiningDate":"2021-01-16"
+  },
+  {
+    "EmployeeID":"EMP0101",
+    "Name":"Bradley Robertson",
+    "Department":"Marketing",
+    "Designation":"Marketing Executive",
+    "Salary":96562,
+    "JoiningDate":"2024-07-31"
+  },
+  {
+    "EmployeeID":"EMP0102",
+    "Name":"Robert Potter",
+    "Department":"Sales",
+    "Designation":"Sales Executive",
+    "Salary":38981,
+    "JoiningDate":"2022-12-14"
+  },
+  {
+    "EmployeeID":"EMP0103",
+    "Name":"Curtis Johnson",
+    "Department":"Sales",
+    "Designation":"Account Manager",
+    "Salary":142960,
+    "JoiningDate":"2023-05-08"
+  },
+  {
+    "EmployeeID":"EMP0104",
+    "Name":"Samuel Jones",
+    "Department":"Human Resources",
+    "Designation":"HR Manager",
+    "Salary":45713,
+    "JoiningDate":"2019-01-26"
+  },
+  {
+    "EmployeeID":"EMP0105",
+    "Name":"Cheyenne Horton",
+    "Department":"Human Resources",
+    "Designation":"Recruiter",
+    "Salary":107924,
+    "JoiningDate":"2020-10-06"
+  },
+  {
+    "EmployeeID":"EMP0106",
+    "Name":"Matthew Smith",
+    "Department":"Engineering",
+    "Designation":"Software Engineer",
+    "Salary":84948,
+    "JoiningDate":"2021-07-25"
+  },
+  {
+    "EmployeeID":"EMP0107",
+    "Name":"Ashley Coleman",
+    "Department":"Operations",
+    "Designation":"Operations Manager",
+    "Salary":56772,
+    "JoiningDate":"2024-02-18"
+  },
+  {
+    "EmployeeID":"EMP0108",
+    "Name":"Kelly Williams",
+    "Department":"Operations",
+    "Designation":"Operations Executive",
+    "Salary":64814,
+    "JoiningDate":"2018-05-19"
+  },
+  {
+    "EmployeeID":"EMP0109",
+    "Name":"Joyce Solis",
+    "Department":"Customer Support",
+    "Designation":"Support Executive",
+    "Salary":118039,
+    "JoiningDate":"2019-02-11"
+  },
+  {
+    "EmployeeID":"EMP0110",
+    "Name":"Linda Dodson DVM",
+    "Department":"Finance",
+    "Designation":"Accountant",
+    "Salary":71441,
+    "JoiningDate":"2023-04-19"
+  },
+  {
+    "EmployeeID":"EMP0111",
+    "Name":"Kathy Rivas",
+    "Department":"Sales",
+    "Designation":"Sales Executive",
+    "Salary":90068,
+    "JoiningDate":"2022-10-01"
+  },
+  {
+    "EmployeeID":"EMP0112",
+    "Name":"Natasha Wells",
+    "Department":"Sales",
+    "Designation":"Sales Executive",
+    "Salary":100468,
+    "JoiningDate":"2022-02-06"
+  },
+  {
+    "EmployeeID":"EMP0113",
+    "Name":"Mark Cannon",
+    "Department":"Human Resources",
+    "Designation":"Recruiter",
+    "Salary":64760,
+    "JoiningDate":"2019-03-19"
+  },
+  {
+    "EmployeeID":"EMP0114",
+    "Name":"Denise Jones",
+    "Department":"Marketing",
+    "Designation":"Marketing Manager",
+    "Salary":145456,
+    "JoiningDate":"2021-11-01"
+  },
+  {
+    "EmployeeID":"EMP0115",
+    "Name":"Francisco Fernandez",
+    "Department":"Sales",
+    "Designation":"Sales Executive",
+    "Salary":78434,
+    "JoiningDate":"2019-06-24"
+  },
+  {
+    "EmployeeID":"EMP0116",
+    "Name":"Michael Mccarthy",
+    "Department":"Finance",
+    "Designation":"Financial Analyst",
+    "Salary":87433,
+    "JoiningDate":"2018-01-02"
+  },
+  {
+    "EmployeeID":"EMP0117",
+    "Name":"Joshua Perry",
+    "Department":"Finance",
+    "Designation":"Finance Manager",
+    "Salary":135788,
+    "JoiningDate":"2017-04-06"
+  },
+  {
+    "EmployeeID":"EMP0118",
+    "Name":"Taylor Silva",
+    "Department":"Engineering",
+    "Designation":"Engineering Manager",
+    "Salary":116951,
+    "JoiningDate":"2018-09-09"
+  },
+  {
+    "EmployeeID":"EMP0119",
+    "Name":"Pamela James",
+    "Department":"Sales",
+    "Designation":"Sales Executive",
+    "Salary":64664,
+    "JoiningDate":"2023-07-30"
+  },
+  {
+    "EmployeeID":"EMP0120",
+    "Name":"Paul Castaneda",
+    "Department":"Sales",
+    "Designation":"Sales Executive",
+    "Salary":127310,
+    "JoiningDate":"2016-09-05"
+  },
+  {
+    "EmployeeID":"EMP0121",
+    "Name":"Paul Payne",
+    "Department":"Marketing",
+    "Designation":"Marketing Manager",
+    "Salary":66930,
+    "JoiningDate":"2026-02-26"
+  },
+  {
+    "EmployeeID":"EMP0122",
+    "Name":"Daniel Graham",
+    "Department":"Human Resources",
+    "Designation":"Recruiter",
+    "Salary":74942,
+    "JoiningDate":"2022-08-27"
+  },
+  {
+    "EmployeeID":"EMP0123",
+    "Name":"Michael Powell",
+    "Department":"Human Resources",
+    "Designation":"Recruiter",
+    "Salary":113130,
+    "JoiningDate":"2016-11-29"
+  },
+  {
+    "EmployeeID":"EMP0124",
+    "Name":"Cameron Dean",
+    "Department":"Finance",
+    "Designation":"Finance Manager",
+    "Salary":94032,
+    "JoiningDate":"2018-04-09"
+  },
+  {
+    "EmployeeID":"EMP0125",
+    "Name":"Justin Johnson",
+    "Department":"Finance",
+    "Designation":"Financial Analyst",
+    "Salary":42097,
+    "JoiningDate":"2016-11-21"
+  },
+  {
+    "EmployeeID":"EMP0126",
+    "Name":"Joel Williams",
+    "Department":"Customer Support",
+    "Designation":"Support Team Lead",
+    "Salary":35778,
+    "JoiningDate":"2023-01-18"
+  },
+  {
+    "EmployeeID":"EMP0127",
+    "Name":"Gabriel Juarez",
+    "Department":"Engineering",
+    "Designation":"Engineering Manager",
+    "Salary":131072,
+    "JoiningDate":"2020-05-30"
+  },
+  {
+    "EmployeeID":"EMP0128",
+    "Name":"Sandra King",
+    "Department":"Marketing",
+    "Designation":"Content Strategist",
+    "Salary":64335,
+    "JoiningDate":"2020-05-30"
+  },
+  {
+    "EmployeeID":"EMP0129",
+    "Name":"Joshua Cooke",
+    "Department":"Marketing",
+    "Designation":"Content Strategist",
+    "Salary":87912,
+    "JoiningDate":"2017-06-10"
+  },
+  {
+    "EmployeeID":"EMP0130",
+    "Name":"Rachael Pearson",
+    "Department":"Customer Support",
+    "Designation":"Support Executive",
+    "Salary":44663,
+    "JoiningDate":"2020-02-14"
+  },
+  {
+    "EmployeeID":"EMP0131",
+    "Name":"Christina Smith",
+    "Department":"Sales",
+    "Designation":"Account Manager",
+    "Salary":148479,
+    "JoiningDate":"2024-03-01"
+  },
+  {
+    "EmployeeID":"EMP0132",
+    "Name":"Michael Elliott",
+    "Department":"Marketing",
+    "Designation":"Content Strategist",
+    "Salary":34722,
+    "JoiningDate":"2018-02-22"
+  },
+  {
+    "EmployeeID":"EMP0133",
+    "Name":"Pamela Jackson",
+    "Department":"Operations",
+    "Designation":"Operations Executive",
+    "Salary":86333,
+    "JoiningDate":"2018-10-20"
+  },
+  {
+    "EmployeeID":"EMP0134",
+    "Name":"Ashley Weiss",
+    "Department":"Marketing",
+    "Designation":"Marketing Executive",
+    "Salary":70404,
+    "JoiningDate":"2022-09-11"
+  },
+  {
+    "EmployeeID":"EMP0135",
+    "Name":"Alexander Collins",
+    "Department":"Operations",
+    "Designation":"Operations Executive",
+    "Salary":147823,
+    "JoiningDate":"2026-04-09"
+  },
+  {
+    "EmployeeID":"EMP0136",
+    "Name":"Jennifer Espinoza",
+    "Department":"Operations",
+    "Designation":"Operations Executive",
+    "Salary":119399,
+    "JoiningDate":"2023-05-25"
+  },
+  {
+    "EmployeeID":"EMP0137",
+    "Name":"Lori Garcia",
+    "Department":"Human Resources",
+    "Designation":"Recruiter",
+    "Salary":43473,
+    "JoiningDate":"2017-05-19"
+  },
+  {
+    "EmployeeID":"EMP0138",
+    "Name":"Lindsay Martinez",
+    "Department":"Operations",
+    "Designation":"Operations Manager",
+    "Salary":111351,
+    "JoiningDate":"2024-05-06"
+  },
+  {
+    "EmployeeID":"EMP0139",
+    "Name":"Hannah Patterson",
+    "Department":"Marketing",
+    "Designation":"Marketing Executive",
+    "Salary":143325,
+    "JoiningDate":"2026-06-17"
+  },
+  {
+    "EmployeeID":"EMP0140",
+    "Name":"Gloria Atkinson",
+    "Department":"Marketing",
+    "Designation":"Marketing Executive",
+    "Salary":145528,
+    "JoiningDate":"2020-04-29"
+  },
+  {
+    "EmployeeID":"EMP0141",
+    "Name":"Tyler Reid",
+    "Department":"Customer Support",
+    "Designation":"Support Executive",
+    "Salary":53509,
+    "JoiningDate":"2024-11-04"
+  },
+  {
+    "EmployeeID":"EMP0142",
+    "Name":"Jessica Gross",
+    "Department":"Operations",
+    "Designation":"Operations Manager",
+    "Salary":135150,
+    "JoiningDate":"2024-11-28"
+  },
+  {
+    "EmployeeID":"EMP0143",
+    "Name":"Robert Medina",
+    "Department":"Human Resources",
+    "Designation":"HR Manager",
+    "Salary":50866,
+    "JoiningDate":"2026-04-11"
+  },
+  {
+    "EmployeeID":"EMP0144",
+    "Name":"Nicholas Adams",
+    "Department":"Sales",
+    "Designation":"Sales Manager",
+    "Salary":144316,
+    "JoiningDate":"2021-06-16"
+  },
+  {
+    "EmployeeID":"EMP0145",
+    "Name":"Angelica Keith",
+    "Department":"Engineering",
+    "Designation":"QA Engineer",
+    "Salary":59154,
+    "JoiningDate":"2025-02-20"
+  },
+  {
+    "EmployeeID":"EMP0146",
+    "Name":"Leonard Gray",
+    "Department":"Human Resources",
+    "Designation":"HR Manager",
+    "Salary":75830,
+    "JoiningDate":"2019-01-22"
+  },
+  {
+    "EmployeeID":"EMP0147",
+    "Name":"Catherine Lewis",
+    "Department":"Finance",
+    "Designation":"Financial Analyst",
+    "Salary":59219,
+    "JoiningDate":"2016-11-27"
+  },
+  {
+    "EmployeeID":"EMP0148",
+    "Name":"Spencer Haynes",
+    "Department":"Engineering",
+    "Designation":"Senior Software Engineer",
+    "Salary":82227,
+    "JoiningDate":"2024-08-07"
+  },
+  {
+    "EmployeeID":"EMP0149",
+    "Name":"Travis Miller",
+    "Department":"Operations",
+    "Designation":"Operations Manager",
+    "Salary":143292,
+    "JoiningDate":"2019-05-21"
+  },
+  {
+    "EmployeeID":"EMP0150",
+    "Name":"Peter Vaughn DDS",
+    "Department":"Sales",
+    "Designation":"Sales Manager",
+    "Salary":76025,
+    "JoiningDate":"2023-10-28"
+  },
+  {
+    "EmployeeID":"EMP0151",
+    "Name":"Anna Walker",
+    "Department":"Customer Support",
+    "Designation":"Support Team Lead",
+    "Salary":33617,
+    "JoiningDate":"2021-07-12"
+  },
+  {
+    "EmployeeID":"EMP0152",
+    "Name":"Kevin Kennedy",
+    "Department":"Sales",
+    "Designation":"Sales Manager",
+    "Salary":53405,
+    "JoiningDate":"2023-07-17"
+  },
+  {
+    "EmployeeID":"EMP0153",
+    "Name":"Patrick Rivera",
+    "Department":"Finance",
+    "Designation":"Financial Analyst",
+    "Salary":44208,
+    "JoiningDate":"2021-12-06"
+  },
+  {
+    "EmployeeID":"EMP0154",
+    "Name":"David Martinez",
+    "Department":"Customer Support",
+    "Designation":"Support Team Lead",
+    "Salary":125491,
+    "JoiningDate":"2023-08-26"
+  },
+  {
+    "EmployeeID":"EMP0155",
+    "Name":"Joshua Gill",
+    "Department":"Operations",
+    "Designation":"Operations Manager",
+    "Salary":109457,
+    "JoiningDate":"2018-07-19"
+  },
+  {
+    "EmployeeID":"EMP0156",
+    "Name":"John Hardy",
+    "Department":"Sales",
+    "Designation":"Sales Manager",
+    "Salary":147899,
+    "JoiningDate":"2018-06-22"
+  },
+  {
+    "EmployeeID":"EMP0157",
+    "Name":"Diane Garcia",
+    "Department":"Human Resources",
+    "Designation":"HR Manager",
+    "Salary":35817,
+    "JoiningDate":"2026-05-22"
+  },
+  {
+    "EmployeeID":"EMP0158",
+    "Name":"Christopher Smith",
+    "Department":"Customer Support",
+    "Designation":"Support Executive",
+    "Salary":98146,
+    "JoiningDate":"2018-07-25"
+  },
+  {
+    "EmployeeID":"EMP0159",
+    "Name":"William Tran",
+    "Department":"Human Resources",
+    "Designation":"HR Manager",
+    "Salary":86531,
+    "JoiningDate":"2021-12-18"
+  },
+  {
+    "EmployeeID":"EMP0160",
+    "Name":"Sean Henry",
+    "Department":"Sales",
+    "Designation":"Account Manager",
+    "Salary":73279,
+    "JoiningDate":"2023-08-06"
+  },
+  {
+    "EmployeeID":"EMP0161",
+    "Name":"Julie Alexander",
+    "Department":"Operations",
+    "Designation":"Operations Executive",
+    "Salary":124339,
+    "JoiningDate":"2025-05-08"
+  },
+  {
+    "EmployeeID":"EMP0162",
+    "Name":"Todd Woods",
+    "Department":"Finance",
+    "Designation":"Finance Manager",
+    "Salary":70538,
+    "JoiningDate":"2018-06-19"
+  },
+  {
+    "EmployeeID":"EMP0163",
+    "Name":"Benjamin Soto",
+    "Department":"Customer Support",
+    "Designation":"Support Team Lead",
+    "Salary":82743,
+    "JoiningDate":"2024-11-04"
+  },
+  {
+    "EmployeeID":"EMP0164",
+    "Name":"Justin Torres",
+    "Department":"Finance",
+    "Designation":"Finance Manager",
+    "Salary":46683,
+    "JoiningDate":"2017-02-26"
+  },
+  {
+    "EmployeeID":"EMP0165",
+    "Name":"Phillip Obrien",
+    "Department":"Human Resources",
+    "Designation":"HR Manager",
+    "Salary":117153,
+    "JoiningDate":"2026-07-24"
+  },
+  {
+    "EmployeeID":"EMP0166",
+    "Name":"Joseph Hayes",
+    "Department":"Customer Support",
+    "Designation":"Support Executive",
+    "Salary":110676,
+    "JoiningDate":"2024-07-12"
+  },
+  {
+    "EmployeeID":"EMP0167",
+    "Name":"Wanda Torres",
+    "Department":"Finance",
+    "Designation":"Accountant",
+    "Salary":101819,
+    "JoiningDate":"2021-01-18"
+  },
+  {
+    "EmployeeID":"EMP0168",
+    "Name":"Natalie Meza",
+    "Department":"Engineering",
+    "Designation":"Engineering Manager",
+    "Salary":67606,
+    "JoiningDate":"2022-10-31"
+  },
+  {
+    "EmployeeID":"EMP0169",
+    "Name":"Matthew Moore",
+    "Department":"Human Resources",
+    "Designation":"HR Manager",
+    "Salary":132990,
+    "JoiningDate":"2018-09-13"
+  },
+  {
+    "EmployeeID":"EMP0170",
+    "Name":"Aaron Hayes",
+    "Department":"Operations",
+    "Designation":"Operations Manager",
+    "Salary":87905,
+    "JoiningDate":"2018-05-11"
+  },
+  {
+    "EmployeeID":"EMP0171",
+    "Name":"David Mann",
+    "Department":"IT",
+    "Designation":"Network Engineer",
+    "Salary":58010,
+    "JoiningDate":"2022-07-24"
+  },
+  {
+    "EmployeeID":"EMP0172",
+    "Name":"Michael Bradshaw",
+    "Department":"IT",
+    "Designation":"Network Engineer",
+    "Salary":52241,
+    "JoiningDate":"2023-08-27"
+  },
+  {
+    "EmployeeID":"EMP0173",
+    "Name":"Mary Peck",
+    "Department":"Sales",
+    "Designation":"Sales Manager",
+    "Salary":97561,
+    "JoiningDate":"2024-07-01"
+  },
+  {
+    "EmployeeID":"EMP0174",
+    "Name":"Maria Kerr",
+    "Department":"Operations",
+    "Designation":"Operations Executive",
+    "Salary":137272,
+    "JoiningDate":"2020-11-15"
+  },
+  {
+    "EmployeeID":"EMP0175",
+    "Name":"Christopher Parker",
+    "Department":"Human Resources",
+    "Designation":"Recruiter",
+    "Salary":70687,
+    "JoiningDate":"2024-11-20"
+  },
+  {
+    "EmployeeID":"EMP0176",
+    "Name":"Donna Martinez",
+    "Department":"Human Resources",
+    "Designation":"HR Executive",
+    "Salary":49313,
+    "JoiningDate":"2024-02-10"
+  },
+  {
+    "EmployeeID":"EMP0177",
+    "Name":"Terri Mason",
+    "Department":"Engineering",
+    "Designation":"Software Engineer",
+    "Salary":62092,
+    "JoiningDate":"2023-07-05"
+  },
+  {
+    "EmployeeID":"EMP0178",
+    "Name":"Andrew Reynolds",
+    "Department":"IT",
+    "Designation":"Network Engineer",
+    "Salary":141376,
+    "JoiningDate":"2021-07-23"
+  },
+  {
+    "EmployeeID":"EMP0179",
+    "Name":"Brandon Hayden",
+    "Department":"Sales",
+    "Designation":"Sales Manager",
+    "Salary":84321,
+    "JoiningDate":"2019-11-05"
+  },
+  {
+    "EmployeeID":"EMP0180",
+    "Name":"Tiffany Key",
+    "Department":"Human Resources",
+    "Designation":"Recruiter",
+    "Salary":121272,
+    "JoiningDate":"2024-12-24"
+  },
+  {
+    "EmployeeID":"EMP0181",
+    "Name":"Andrew Avila",
+    "Department":"Customer Support",
+    "Designation":"Support Team Lead",
+    "Salary":82383,
+    "JoiningDate":"2023-05-06"
+  },
+  {
+    "EmployeeID":"EMP0182",
+    "Name":"Sydney White",
+    "Department":"Human Resources",
+    "Designation":"HR Executive",
+    "Salary":115990,
+    "JoiningDate":"2021-04-29"
+  },
+  {
+    "EmployeeID":"EMP0183",
+    "Name":"Katherine Davis",
+    "Department":"Engineering",
+    "Designation":"Software Engineer",
+    "Salary":132029,
+    "JoiningDate":"2022-06-23"
+  },
+  {
+    "EmployeeID":"EMP0184",
+    "Name":"Michael Hodge",
+    "Department":"Customer Support",
+    "Designation":"Support Executive",
+    "Salary":53053,
+    "JoiningDate":"2020-02-07"
+  },
+  {
+    "EmployeeID":"EMP0185",
+    "Name":"Donna Landry",
+    "Department":"IT",
+    "Designation":"System Administrator",
+    "Salary":103060,
+    "JoiningDate":"2019-12-02"
+  },
+  {
+    "EmployeeID":"EMP0186",
+    "Name":"Jordan Edwards",
+    "Department":"Human Resources",
+    "Designation":"HR Executive",
+    "Salary":89829,
+    "JoiningDate":"2024-10-03"
+  },
+  {
+    "EmployeeID":"EMP0187",
+    "Name":"Jennifer Robertson",
+    "Department":"Marketing",
+    "Designation":"Marketing Manager",
+    "Salary":117500,
+    "JoiningDate":"2019-11-08"
+  },
+  {
+    "EmployeeID":"EMP0188",
+    "Name":"Kimberly Gutierrez",
+    "Department":"Operations",
+    "Designation":"Operations Manager",
+    "Salary":110301,
+    "JoiningDate":"2026-07-03"
+  },
+  {
+    "EmployeeID":"EMP0189",
+    "Name":"Peter Garrett",
+    "Department":"Customer Support",
+    "Designation":"Support Team Lead",
+    "Salary":147598,
+    "JoiningDate":"2018-07-01"
+  },
+  {
+    "EmployeeID":"EMP0190",
+    "Name":"Joshua Pennington",
+    "Department":"Marketing",
+    "Designation":"Content Strategist",
+    "Salary":142917,
+    "JoiningDate":"2024-03-22"
+  },
+  {
+    "EmployeeID":"EMP0191",
+    "Name":"Barbara Dudley",
+    "Department":"IT",
+    "Designation":"IT Support Engineer",
+    "Salary":63972,
+    "JoiningDate":"2021-01-01"
+  },
+  {
+    "EmployeeID":"EMP0192",
+    "Name":"Christopher Pierce",
+    "Department":"Human Resources",
+    "Designation":"Recruiter",
+    "Salary":66347,
+    "JoiningDate":"2022-09-17"
+  },
+  {
+    "EmployeeID":"EMP0193",
+    "Name":"Willie Durham",
+    "Department":"IT",
+    "Designation":"Network Engineer",
+    "Salary":61358,
+    "JoiningDate":"2022-02-22"
+  },
+  {
+    "EmployeeID":"EMP0194",
+    "Name":"Ronnie Jimenez",
+    "Department":"Finance",
+    "Designation":"Accountant",
+    "Salary":40155,
+    "JoiningDate":"2021-03-27"
+  },
+  {
+    "EmployeeID":"EMP0195",
+    "Name":"Denise Davenport",
+    "Department":"Finance",
+    "Designation":"Financial Analyst",
+    "Salary":65614,
+    "JoiningDate":"2023-10-15"
+  },
+  {
+    "EmployeeID":"EMP0196",
+    "Name":"Juan Reyes",
+    "Department":"Operations",
+    "Designation":"Operations Manager",
+    "Salary":147050,
+    "JoiningDate":"2026-06-04"
+  },
+  {
+    "EmployeeID":"EMP0197",
+    "Name":"Sherry Shields",
+    "Department":"Sales",
+    "Designation":"Sales Executive",
+    "Salary":49769,
+    "JoiningDate":"2025-11-03"
+  },
+  {
+    "EmployeeID":"EMP0198",
+    "Name":"Jennifer Villa",
+    "Department":"Human Resources",
+    "Designation":"HR Manager",
+    "Salary":120957,
+    "JoiningDate":"2019-05-21"
+  },
+  {
+    "EmployeeID":"EMP0199",
+    "Name":"Diane Evans",
+    "Department":"Marketing",
+    "Designation":"Content Strategist",
+    "Salary":58043,
+    "JoiningDate":"2021-09-12"
+  },
+  {
+    "EmployeeID":"EMP0200",
+    "Name":"Mrs. Brittany Ryan MD",
+    "Department":"Sales",
+    "Designation":"Sales Manager",
+    "Salary":83424,
+    "JoiningDate":"2022-06-29"
+  }
+]
