@@ -18,7 +18,7 @@ DESC table Student;
 --Alter Table
 
 ALTER TABLE student 
-ADD COLUMN semail VARCHAR(50);
+ADD COLUMN semail VARCHAR(40);
 
 
 --DML UId(Update,Insert,Delete)
