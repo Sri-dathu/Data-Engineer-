@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Segment,City,Country,Phone,RegisteredDate
+CUST0001,Michael Reid,Wholesale,Bridgesfort,UAE,228.883.0059x61233,2026-08-13
+CUST0002,Sheri Gilbert,Government,West Amberville,Canada,+1-450-421-1072x8567,2024-12-14
+CUST0003,Robert Jones,Government,East Emily,Germany,+1-791-918-7863x52864,2024-02-19
+CUST0004,John Baker,Government,East Jenniferfort,UK,7713898399,2022-07-13
+CUST0005,Gregory Ho,Online,Kathleenport,Germany,512.812.6520,2026-03-20
+CUST0006,Patrick Smith,Retail,Travisfurt,India,+1-233-828-1767x04044,2022-11-14
+CUST0007,Seth Brewer,Corporate,East Julie,UAE,904.928.7035x2596,2023-03-02
+CUST0008,Desiree Tate,Retail,South Ginatown,UK,895-339-6462x221,2022-07-24
+CUST0009,Rachel Jones,Wholesale,Lake Juanport,Germany,+1-856-573-9222,2025-03-06
+CUST0010,Amber Page,Retail,Port Sarahfurt,UAE,416.692.3495x036,2025-04-04
+CUST0011,Ruth Pratt DDS,Government,New Carolynhaven,Singapore,+1-558-744-9883x195,2021-12-14
+CUST0012,Jennifer Parrish,Retail,Lake Lisamouth,Australia,290.577.8866x13006,2023-01-02
+CUST0013,Jennifer Simmons,Online,South Paul,Singapore,631.507.2759x3799,2024-01-13
+CUST0014,Mr. James Warren DDS,Retail,East Larryport,Australia,(821)582-1849x6712,2025-01-07
+CUST0015,Kevin Lopez,Retail,North Marcview,UK,(983)839-4626,2023-10-24
+CUST0016,Diana Thompson,Retail,Howellville,USA,230.855.0189,2024-08-31
+CUST0017,Cynthia Smith,Retail,North Teresa,Singapore,275.605.2296,2022-07-25
+CUST0018,Juan Perez,Wholesale,Stephensontown,Australia,+1-991-716-3207x89897,2022-05-22
+CUST0019,Dwayne Bowman,Government,Port Chadland,Singapore,(281)935-4502,2023-01-01
+CUST0020,Jennifer Johnson,Wholesale,West Amanda,UK,(433)286-1533x80598,2025-03-05
+CUST0021,Christopher Rosales PhD,Retail,Erinborough,Singapore,+1-698-291-4637x50529,2025-05-28
+CUST0022,Candice Galvan,Wholesale,Clarkhaven,USA,+1-747-751-3692,2024-06-28
+CUST0023,Susan Blevins PhD,Wholesale,Lake Daniel,Germany,+1-985-984-1236,2025-05-20
+CUST0024,Dawn Jordan,Online,Walkerfort,USA,408-873-0597x423,2022-05-03
+CUST0025,Richard Delacruz,Retail,Barbaramouth,Singapore,973.787.0052,2023-12-08
+CUST0026,Mark George,Online,Port Jonathanville,UAE,(647)313-9514x322,2025-01-14
+CUST0027,Daniel Clark,Wholesale,Wisefort,Australia,205.685.0324,2025-02-09
+CUST0028,Bryce Gilmore,Wholesale,Lake Jessemouth,UAE,588.985.6052x5677,2025-07-29
+CUST0029,Mason Gibson,Corporate,Port Brenda,Australia,001-715-672-2045,2022-09-14
+CUST0030,Cody Hernandez,Government,Port Eric,UAE,+1-512-281-6113,2022-01-19
+CUST0031,Kyle Davis,Corporate,South Barbara,Singapore,406.245.5609x70697,2026-04-05
+CUST0032,Vincent Parsons,Government,Alyssaburgh,Canada,755-474-6401x4917,2025-05-24
+CUST0033,Eric Rodriguez,Retail,Knoxton,USA,(768)817-3853x074,2022-07-23
+CUST0034,Jessica Gonzalez,Wholesale,East Jasonmouth,Singapore,4377358634,2024-01-11
+CUST0035,Steven Mathis,Retail,West Erin,Singapore,001-510-534-5862x60944,2025-07-30
+CUST0036,Stephanie Morrow,Retail,South Debra,Germany,+1-483-926-6428x60201,2022-03-07
+CUST0037,Benjamin Murphy,Online,New Brandi,Australia,+1-774-666-8145x0647,2025-11-09
+CUST0038,Gregory Mayer,Online,Jamieburgh,USA,242-205-0253,2025-08-23
+CUST0039,Kenneth Spencer,Wholesale,Port Marcus,UK,001-829-631-2464x536,2025-05-11
+CUST0040,Dana Morris,Corporate,Loriborough,Australia,897-972-2970,2022-01-18
+CUST0041,Katelyn Blankenship,Corporate,Port Ana,Canada,990-304-8201,2024-06-30
+CUST0042,Larry Ross,Wholesale,Freemanview,USA,(794)634-1226,2025-06-22
+CUST0043,Patrick Richardson,Wholesale,North Darlenebury,USA,757.948.3874x395,2024-04-19
+CUST0044,Mackenzie Reilly,Wholesale,Jamesburgh,UAE,+1-682-512-4769,2024-02-20
+CUST0045,Larry Pacheco,Corporate,Port Kellyland,UK,882.808.8836,2022-12-06
+CUST0046,Jessica Smith,Retail,Tanyachester,Germany,646.774.9305,2026-06-07
+CUST0047,Kayla Baker,Government,East Michelle,UK,353-229-2598,2026-05-30
+CUST0048,Karen Villarreal,Online,East Susan,India,(747)302-2296x7266,2024-12-26
+CUST0049,Jose White,Corporate,West Benjaminfurt,Singapore,+1-758-967-4160x8942,2022-01-26
+CUST0050,Joyce Jenkins,Online,Cabreraport,UAE,+1-806-530-9437x449,2025-07-13
+CUST0051,Paula James,Wholesale,Pamelaborough,Germany,754-847-0141x17756,2022-10-06
+CUST0052,Richard Taylor,Wholesale,East Nathanfurt,USA,588.567.1821x96736,2023-01-03
+CUST0053,Christopher Cross,Government,West Carolborough,UAE,001-916-841-9403,2023-09-28
+CUST0054,William Paul,Government,Anthonyside,India,(607)289-6571,2022-12-08
+CUST0055,Clinton Williams,Corporate,New Benjamin,India,782-869-8301x461,2023-12-31
+CUST0056,Danielle Tucker,Corporate,Johnmouth,Canada,202.976.9208,2026-07-11
+CUST0057,Andrea White,Retail,East Dawnshire,UAE,473.735.7502,2023-01-15
+CUST0058,Diana Ward,Wholesale,Jaredburgh,UK,480-243-8489x63955,2025-05-05
+CUST0059,Andrew Stevens,Government,Chambersmouth,USA,828.766.3288x80571,2022-12-14
+CUST0060,Diane Smith,Corporate,West Thomas,UK,+1-421-555-7572x65738,2025-03-27
+CUST0061,Leon Bennett Jr.,Wholesale,Port Sean,Singapore,001-648-576-5136,2024-03-25
+CUST0062,Jacqueline Rhodes,Retail,Carolinetown,Canada,(506)547-1210,2025-02-06
+CUST0063,Andrea Mendez,Wholesale,Mooreborough,Singapore,470-991-7690,2025-01-21
+CUST0064,Christina Norman,Retail,North Arielstad,Germany,(734)898-1426,2021-12-18
+CUST0065,Pamela Ryan,Corporate,Torreston,UK,(230)624-7714x85681,2022-10-03
+CUST0066,Jeff Davis,Corporate,Alanberg,UAE,586-402-4517x61250,2025-04-14
+CUST0067,Thomas Greene,Government,Hicksview,Singapore,699.322.0516x145,2022-09-13
+CUST0068,Jonathan Frederick,Corporate,South Justin,UK,826-926-9604x8436,2024-11-23
+CUST0069,Rebecca Hinton,Online,North Stephanie,Canada,375.371.9491x433,2022-10-14
+CUST0070,Lisa Harding,Wholesale,Toddside,India,488-898-1349x70597,2021-10-07
+CUST0071,Danielle Boyd,Government,Shafferborough,UK,824.932.3224x529,2026-03-02
+CUST0072,Barbara Sanchez,Retail,South Danielburgh,Canada,(273)889-9721x509,2024-10-14
+CUST0073,Tamara Smith,Online,West Jaclyn,Australia,259-882-3845x6805,2023-12-18
+CUST0074,Joseph Rodriguez,Wholesale,Mariohaven,UAE,274.963.1130x021,2025-03-17
+CUST0075,Kevin Torres,Corporate,Aguirrefurt,UAE,(522)591-9389x19375,2025-03-13
+CUST0076,Benjamin Walker,Wholesale,Myersbury,UK,386-322-8176x93082,2026-06-27
+CUST0077,Joan Miller,Wholesale,Williamsmouth,USA,6426139218,2024-12-03
+CUST0078,Crystal Mora,Government,New Laurieport,USA,997.778.3999x5549,2024-10-15
+CUST0079,Katherine Williams,Wholesale,East Brittney,India,+1-315-342-6488,2026-03-20
+CUST0080,Patricia Allen,Government,Troystad,UK,+1-790-821-2606x217,2025-10-02
+CUST0081,Jennifer Stevens,Retail,West Alyssaland,USA,(735)351-3020x0379,2022-03-18
+CUST0082,Melissa Trevino,Corporate,East Stevenburgh,UK,+1-214-962-5027,2026-03-21
+CUST0083,William Mitchell,Corporate,South Sharonville,Australia,001-272-236-9935x864,2021-12-11
+CUST0084,Amy Kim,Government,Dunnburgh,Singapore,(492)907-2872x58751,2024-10-06
+CUST0085,William Burch,Wholesale,East Joshuastad,UK,(708)446-1122,2026-07-02
+CUST0086,Erica Carpenter,Wholesale,Lake Beth,UK,(909)620-1599x516,2021-09-24
+CUST0087,Andre Doyle,Government,Lake Maria,Germany,522-856-3725,2023-11-12
+CUST0088,Carlos Sullivan,Online,West Carla,India,455-579-6975,2024-04-26
+CUST0089,Cheryl Stewart,Online,Port Shawnfort,India,+1-433-537-1991x0372,2023-09-25
+CUST0090,Shawn Sanders,Retail,New Courtney,UAE,001-356-744-9934x2971,2022-07-03
+CUST0091,Jennifer Jones,Government,New Ashleyside,USA,227-579-4185x368,2024-12-03
+CUST0092,Sydney Fischer,Government,Lindafort,UK,809.620.1798x0625,2021-11-23
+CUST0093,Joseph Martin,Wholesale,North Jessica,Canada,001-787-569-8501x2043,2024-08-15
+CUST0094,Mr. Christopher Rodgers DVM,Online,Lake Larry,Australia,588-697-8225,2024-10-01
+CUST0095,Jill Collins,Retail,West Susanport,Germany,(479)564-2484x71288,2023-02-26
+CUST0096,John Deleon,Government,Lake Charles,UK,001-678-838-4383x11852,2023-09-05
+CUST0097,Christopher Burke,Corporate,Walkerborough,Canada,001-469-962-5815x1893,2022-12-20
+CUST0098,Matthew Lucero,Online,West Christinamouth,Singapore,+1-963-327-4535x522,2023-07-31
+CUST0099,Jennifer Schultz,Online,South Erinborough,USA,001-787-710-4998x14155,2025-02-19
+CUST0100,Ashley Nelson,Online,North Timothyborough,India,588.508.0899,2023-08-01
