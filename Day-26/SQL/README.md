@@ -135,29 +135,6 @@ The stage is used as the location from which Snowflake reads the uploaded datase
 9. Run KPIs.sql
 ```
 
-## Business Analysis
-
-The project focuses on:
-
-* Payment performance
-* Inventory and warehouse efficiency
-* Supplier performance and procurement risk
-* Employee performance
-* Business KPIs
-
-The SQL analysis covers the concepts practiced in the project, including:
-
-* Filtering
-* Aggregation
-* Grouping
-* Joins where applicable
-* CTEs
-* Conditional logic
-* Window functions
-* Stored Procedures
-* User-Defined Functions
-* KPI calculations
-
 ## Important: Where to Run the SQL
 
 > **The SQL queries in this repository are Snowflake SQL. They should be executed in Snowflake or through SnowSQL, not directly in VS Code.**
